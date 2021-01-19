@@ -1,0 +1,102 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Thriller"
+    },
+    {
+      "id": 2,
+      "name": "Criminal"
+    },
+    {
+      "id": 3,
+      "name": "Comedy"
+    },
+    {
+      "id": 4,
+      "name": "Horror"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "David Munch",
+      "videos": [
+        {
+          "id": 1,
+          "catIds": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "name": "Set the Moon12312",
+          "releaseDate": 1610503366369,
+          "highestQualityFormat": "1080p",
+          "size": 1000
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Li Sun Chi",
+      "videos": [
+        {
+          "id": 3,
+          "catIds": [
+            4
+          ],
+          "name": "Fun",
+          "releaseDate": 1610503366369,
+          "highestQualityFormat": "medium 1080p"
+        },
+        {
+          "id": 4,
+          "catIds": [
+            1,
+            2,
+            4
+          ],
+          "name": "It",
+          "releaseDate": 1610503366369,
+          "highestQualityFormat": "medium 1080p"
+        },
+        {
+          "id": 5,
+          "catIds": [
+            2
+          ],
+          "name": "Go and get it",
+          "releaseDate": 1610503366369,
+          "highestQualityFormat": "medium 1080p"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Steven Scorsese",
+      "videos": [
+        {
+          "id": 6,
+          "catIds": [
+            2,
+            4
+          ],
+          "name": "Torrance",
+          "releaseDate": 1610503366369,
+          "highestQualityFormat": "medium 1080p"
+        },
+        {
+          "id": 1611026397496,
+          "catIds": [
+            2
+          ],
+          "name": "adasd",
+          "releaseDate": 1611024364057,
+          "highestQualityFormat": "1080p",
+          "size": 1000
+        }
+      ]
+    }
+  ]
+}
